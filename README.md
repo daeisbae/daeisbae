@@ -7,7 +7,6 @@ Cloud security engineer in training, SOC analyst co-op, and Computing Science st
 [![Portfolio](https://img.shields.io/badge/Portfolio-daehyung.dev-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://daehyung.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daehyung%20Kwak-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daehyung-kwak)
 [![Email](https://img.shields.io/badge/Email-kda56%40sfu.ca-14B8A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kda56@sfu.ca)
-[![GitHub](https://img.shields.io/badge/GitHub-daeisbae-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daeisbae)
 
 </div>
 
