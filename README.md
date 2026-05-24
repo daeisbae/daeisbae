@@ -1,5 +1,3 @@
-<img width="100%" alt="Daehyung Kwak - Cloud Security, SOC, Identity, Detection Engineering" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:2563EB,100:14B8A6&text=Daehyung%20Kwak&fontColor=FFFFFF&fontSize=50&fontAlignY=37&desc=Cloud%20Security%20%7C%20SOC%20%7C%20Identity%20%26%20Detection%20Engineering&descSize=18&descAlignY=58&animation=fadeIn" />
-
 <div align="center">
 
 # Daehyung Kwak (Dae)
@@ -77,7 +75,6 @@ Developer tool for turning source repositories into readable architecture and im
 | May 2026 - Dec 2026 | Cybersecurity SOC Analyst Co-op, WorkSafeBC |
 | Sept 2024 - Present | Director of Events and CTF Member, SFU Cybersecurity Club |
 | June 2022 - Feb 2024 | IT Operations Technician, Republic of Korea Navy |
-| Sept 2020 - Sept 2027 expected | B.Sc. Computing Science, Simon Fraser University |
 
 ## Certifications
 
