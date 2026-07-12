@@ -36,13 +36,6 @@ Current focus:
 
 ## Featured Projects
 
-### [Detection Engineering Case Study: Privileged Access Abuse in Entra ID with AD Environment](https://github.com/daeisbae/Detection-Engineering-Case-Study---Privileged-Access-Abuse-in-Entra-ID-with-AD-Environment)
-
-Detection engineering case study for privileged access abuse across Microsoft Entra ID, Active Directory, Azure Activity, and Key Vault logs.
-
-- Built 8 Microsoft Sentinel KQL detections for privileged role changes, leaver account logins, break-glass usage, credential compromise, geo anomalies, and sensitive group changes.
-- Correlated SigninLogs, AuditLogs, SecurityEvent, AzureActivity, and Key Vault logs to detect identity abuse across hybrid cloud and on-prem signals.
-- Documented false-positive tuning, severity logic, SOC triage, remediation steps, MITRE mapping, and detection gaps for each scenario.
 
 ### [Hybrid Active Directory and Entra Security Lab](https://github.com/daeisbae/Hybrid-Active-Directory-and-Entra-Security-Lab)
 
