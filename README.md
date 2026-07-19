@@ -53,7 +53,7 @@ AWS IAM lab for testing privilege escalation paths and least-privilege controls.
 - Built AWS Organizations SCP guardrails in a Sandbox OU to restrict sensitive IAM changes and admin role passing.
 - Collected audit evidence with CloudTrail, AWS Config, GuardDuty, and IAM Access Analyzer.
 
-### CloudTrail SIEM Detection Lab
+### [Flaws.cloud CloudTrail Logs Detection Lab with Microsoft Sentinel](https://github.com/daeisbae/flaws.cloud-cloudtrail-logs-detection-with-sentinel)
 
 AWS CloudTrail detection lab using the flaws.cloud dataset and Microsoft Sentinel.
 
