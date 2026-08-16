@@ -36,6 +36,15 @@ Current focus:
 
 ## Featured Projects
 
+### [AWS Secure Container Delivery and Detection Pipeline](https://github.com/daeisbae/AWS-Secure-Container-Delivery-And-Detection-Pipeline)
+
+Implementing Security Pipeline with SAST, DAST, SCA which will deployed to ECS automatically.
+
+- Built a GitHub Actions pipeline using Trivy, Opengrep, and OWASP ZAP to scan source and the built container, blocking failed
+gates before ECR push or ECS Fargate deployment.
+- Validated and remediated 5 OS/Python CVEs, SQL injection, and 2 security header issues across 3 experiments.
+- Configured GitHub OIDC for short-lived AWS credentials and Cosign for signed, digest-pinned ECS Fargate updates.
+
 
 ### [Hybrid Active Directory and Entra Security Lab](https://github.com/daeisbae/Hybrid-Active-Directory-and-Entra-Security-Lab)
 
